@@ -1,0 +1,28 @@
+body {
+ 
+  margin-top: 50px;
+  margin-left: 30%;
+  width: 50%;
+  height: 75%;
+}
+.firstNumber, .secondNumber {
+  display: flex;
+  align-items: center;
+  /* border: 1px solid black; */
+  height: 70px;
+  width: 350px;
+
+}
+section {
+  display: flex;
+  align-items: center;
+  /* border: 1px solid black; */
+  height: 75px;
+  width: 300px;
+}
+
+.result {
+  /* border: 1px solid black; */
+  height: 100px;
+  width: 400px;
+}
